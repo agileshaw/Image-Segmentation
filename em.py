@@ -1,5 +1,5 @@
 # Image Segmentation With Expectation Maximization
-# https: // github.com/agileshaw/Project-Euler
+# https: // github.com/agileshaw/Image-Segmentation
 
 import numpy as np
 from sklearn.mixture import GaussianMixture as mixture
